@@ -1,0 +1,23 @@
+[
+  {
+    "id":"0",
+    "name":"Carry",
+    "image":"Carry.jpg",
+    "power":"10",
+    "speed":"9"
+  },
+  {
+    "id":"1",
+    "name":"Support",
+    "image":"Support.jpg",
+    "power":"7",
+    "speed":"10"
+  },
+  {
+    "id":"2",
+    "name":"Durable",
+    "image":"Durable.jpg",
+    "power":"5",
+    "speed":"6"
+  }
+]
